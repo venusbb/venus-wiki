@@ -1,5 +1,5 @@
 # Government Forms
-###### tags: `10-Forms` `index`
+###### tags: `Forms` `Wiki`
 
 
 ## UK Government open source solutions
